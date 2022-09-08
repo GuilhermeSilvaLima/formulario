@@ -8,7 +8,7 @@
     margin-top: 3%;
     padding: 3%;
     background-color: #283618;
-    border-radius: 20px;
+    border-radius: 14px;
     border: 1.5px solid #bc6c25;
     width: 70%;
     margin: 40px auto;
@@ -21,4 +21,28 @@ body {
     background-color: #dda15e;
     line-height: 1.3;
     color: #fefae0;
+}
+.formulario-dev {
+    background-color: #283618;
+    border: 1px solid  #bc6c25;
+    border-radius: 14px;
+    width: 70%;
+    margin: 0px auto 40px auto;
+    padding: 50px;
+}
+.oinput {
+    margin-bottom: 40px;
+}
+.line {
+    margin: 20px;
+    border: none;
+}
+.oinput input[type="text"]{
+    background-color: #fefae0;
+    border: 1px solid #dda15e;
+    border-radius: 7px;
+    width: 100%;
+    padding: 7px;
+    margin: 8px;
+    font-size: 16px;
 }
